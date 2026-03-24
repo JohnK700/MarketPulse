@@ -1,0 +1,26 @@
+# Runtime data folders
+src/data/uploads/
+src/data/graphs/
+
+# User data
+src/data/users.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Mac junk files
+.DS_Store
+
+# Zip files
+*.zip
