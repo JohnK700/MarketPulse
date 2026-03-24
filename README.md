@@ -12,7 +12,7 @@
 <h3 align="center">MarketPulse</h3>
 
   <p align="center">
-    A full-stack web application for sales data analysis and ML-powered forecasting. Upload your sales data, get automated analytics, and predict the next 30 days of revenue using Facebook Prophet.
+    A full-stack web application for sales data analysis and Machine Learning powered forecasting. Upload your sales data, get automated analytics, and predict the next 30 days of revenue using Facebook Prophet.
   </p>
 </div>
 
