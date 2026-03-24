@@ -1,0 +1,26 @@
+{
+  "manderson14": {
+    "username": "manderson14",
+    "password": "AtlasPeak9",
+    "first_name": "Maria",
+    "last_name": "Alice",
+    "email": "maria.anderson@example.com",
+    "phone": "5558675309"
+  },
+  "12345": {
+    "username": "admin",
+    "password": "Admin123",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "phone": ""
+  },
+  "gayu": {
+    "username": "gayu",
+    "password": "Leo12345678",
+    "first_name": "Gayathri",
+    "last_name": "Utla",
+    "email": "gayathri.utla22@gmail.com",
+    "phone": "4694161772"
+  }
+}
